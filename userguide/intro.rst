@@ -1,3 +1,5 @@
+Test sentence
+
 %brand% is © 2011-2018 iXsystems
 
 %brand% and the %brand% logo are registered trademarks of iXsystems
