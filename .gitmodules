@@ -1,0 +1,3 @@
+[submodule "userguide/_static/themes"]
+	path = userguide/_static/themes
+	url = git@github.com:Mrt134/trueos-style.git
